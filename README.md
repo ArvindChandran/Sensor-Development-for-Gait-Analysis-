@@ -21,4 +21,4 @@ The estimated angles of the gait trails are validated with an optical reference 
 
 ![Sensor-Development-for-Gait-Analysis-](./Gait_cycle.jpg)
 
-![Sensor-Development-for-Gait-Analysis-](./Gait_Phases.jpg)
+![Sensor-Development-for-Gait-Analysis-](./Gait_Phases.png)
