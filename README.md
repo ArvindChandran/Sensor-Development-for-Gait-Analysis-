@@ -19,3 +19,6 @@ The second sensor system involves inertial measuring units for body segment and 
 
 The estimated angles of the gait trails are validated with an optical reference system using Kinovea. Data acquisition includes a set of experiments of real life scenarios like sitting and standing postures, hallway walking from which gait parameters and features are extracted. Finally, the work is concluded with estimation of gait parameters which include gait phase events, body segment orientation, joint angle and temporal parameters like stride time, step time, cadence, stance time, swing time etc.
 
+![Sensor-Development-for-Gait-Analysis-](./Gait_cycle.jpg)
+
+![Sensor-Development-for-Gait-Analysis-](./Gait_Phases.jpg)
