@@ -15,7 +15,7 @@ The regions in the feet are subdivided into eight anatomical regions and the mea
 ### Insole Data over One Gait Cycle
 ![Sensor-Development-for-Gait-Analysis-](./Insole_Regions_one_Gait_cycle.png)
 
-The second sensor system involves inertial measuring units for body segment and joint angle estimation in the context of human motion analysis. The main focus is on angle estimation methods that use only accelerometers and gyroscopes and therefore do not rely on homogenous magnetic fields. 
+The second sensor system involves inertial measuring units for body segment and joint angle estimation in the context of human motion analysis. The main focus is on angle estimation methods that use only accelerometers and gyroscopes and therefore do not rely on homogenous magnetic fields. The anglular changes are estimated by fusing GyroRate(°/sec) and Accelerometer angle (calculated) using Kalman and Complementary filter algorithms.
 
 IMU Sensor System (MPU-9250)
 ![Sensor-Development-for-Gait-Analysis-](./IMU.jpg)
@@ -24,6 +24,7 @@ The estimated angles of the gait trails are validated with an optical reference 
 
 ### Gait Cycle Standards (Rancho Los Amigos (RLA) gait analysis committee)
 ![Sensor-Development-for-Gait-Analysis-](./Gait_cycle.jpg)
+
 
 ### Gait Event Detection
 ![Sensor-Development-for-Gait-Analysis-](./Gait_Phases.png)
