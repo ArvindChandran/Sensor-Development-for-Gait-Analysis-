@@ -9,6 +9,10 @@ This project is aimed at presenting a wearable sensor platform for gait data acq
 
 ![Sensor-Development-for-Gait-Analysis-](./Insole.png)
 
+The regions in the feet are subdivided into eight anatomical regions and the mean pressure is plotted over time which is crucial for gait event detection (Gait Phases).
+
+![Sensor-Development-for-Gait-Analysis-](./Insole Regions - one Gait cycle.png)
+
 The second sensor system involves inertial measuring units for body segment and joint angle estimation in the context of human motion analysis. The main focus is on angle estimation methods that use only accelerometers and gyroscopes and therefore do not rely on homogenous magnetic fields. 
 
 ![Sensor-Development-for-Gait-Analysis-](./IMU.jpg)
