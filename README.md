@@ -7,8 +7,6 @@ Gait analysis is a systematic evaluation of human motion, and serves as an impor
   <img width="687" height="580" src="Gait.png">
 </p>
 
-![Sensor-Development-for-Gait-Analysis-](./Gait.png)
-
 This project is aimed at presenting a wearable sensor platform for gait data acquisition and analysis. The first sensor system includes an in-shoe plantar pressure sensor insole and inertial measurement units. The in-shoe system includes a sensorized insole with a piezo resistive material. Key features of this insole include good working pressure range, cost effectiveness, real time data visualization (check Insole Visualization.gif  or PP.mp4) and data acquisition for an intuitive understanding of plantar pressure distribution. 
 
 ### Plantar Pressure Insole
