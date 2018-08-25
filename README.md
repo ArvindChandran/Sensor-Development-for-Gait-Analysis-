@@ -5,7 +5,7 @@ Gait analysis is a systematic evaluation of human motion, and serves as an impor
 
 
 <p align="center">
-  <img width="460" height="300" src="Gait.png">
+  <src="Gait.png">
 </p>
 
 ![Sensor-Development-for-Gait-Analysis-](./Gait.png)
